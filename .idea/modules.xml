@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SmartAppUpdates.iml" filepath="$PROJECT_DIR$/SmartAppUpdates.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartupdates/smartupdates.iml" filepath="$PROJECT_DIR$/smartupdates/smartupdates.iml" />
     </modules>
   </component>
 </project>
